@@ -1,0 +1,15 @@
+{
+  "_ajuda": "Uma entrada por pessoa, com o email (em minúsculas) como chave. 'foto' é o caminho de uma imagem dentro desta pasta (ver fotos/). Quem não estiver aqui recebe a assinatura só com nome e email, e a foto genérica.",
+  "miguel.carvalho@solvian.pt": {
+    "nome": "Miguel Carvalho",
+    "cargo": "PARTNER",
+    "telefone": "+351 910 597 048",
+    "foto": "fotos/miguel-carvalho.png"
+  },
+  "tiago.pinto@solvian.pt": {
+    "nome": "Tiago Pinto",
+    "cargo": "AI ENGINEER",
+    "telefone": "+351 930 523 786",
+    "foto": "fotos/tiago-pinto.png"
+  }
+}
