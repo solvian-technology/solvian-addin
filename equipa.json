@@ -17,5 +17,17 @@
     "cargo": "PARTNER",
     "telefone": "+351 913 021 516",
     "foto": "fotos/pedro-topa.png"
+  },
+  "margarida.sousa@solvian.pt": {
+    "nome": "Margarida Sousa",
+    "cargo": "CONSULTOR LÍDER I",
+    "telefone": "+351 961 623 093",
+    "foto": "fotos/margarida-sousa.png"
+  },
+  "barbara.carvalho@solvian.pt": {
+    "nome": "Bárbara Carvalho",
+    "cargo": "CONSULTOR ESPECIALISTA III",
+    "telefone": "+351 963 750 643",
+    "foto": "fotos/barbara-carvalho.png"
   }
 }
