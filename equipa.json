@@ -11,5 +11,11 @@
     "cargo": "AI ENGINEER",
     "telefone": "+351 930 523 786",
     "foto": "fotos/tiago-pinto.png"
+  },
+  "pedro.topa@solvian.pt": {
+    "nome": "Pedro Topa",
+    "cargo": "PARTNER",
+    "telefone": "+351 913 021 516",
+    "foto": "fotos/pedro-topa.png"
   }
 }
