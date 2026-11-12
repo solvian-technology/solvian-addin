@@ -29,5 +29,11 @@
     "cargo": "CONSULTOR ESPECIALISTA III",
     "telefone": "+351 963 750 643",
     "foto": "fotos/barbara-carvalho.png"
+  },
+  "marta.correia@solvian.pt": {
+    "nome": "Marta Correia",
+    "cargo": "CONSULTOR ESPECIALISTA I",
+    "telefone": "+351 925 904 203",
+    "foto": "fotos/marta-correia.png"
   }
 }
